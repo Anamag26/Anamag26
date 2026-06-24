@@ -1,20 +1,9 @@
-### Hi there👋, I'm Ana! a Developer 🚀 from Portugal.
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Anamag26)](https://github.com/Anamag26) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Annamhg02)](https://twitter.com/Annamhg02)
--  working with salesforce;
--working with PYTHON
-- 🗺 From Portugal;
+# Hi, I'm Ana Gonçalves 👋
+### Full-Stack Front-End Developer & UI/UX Specialist
 
-<!--
-**Anamag26/Anamag26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! I specialize in building ultra-fast, high-converting websites and luxury digital platforms.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks:** React.js, Next.js, Tailwind CSS
+- **Tools:** Git, GitHub, Figma
